@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[image_0]: https://pfst.cf2.poecdn.net/base/image/1c710c5778e6208e9e53a1e4f77d2980c9e4b8b656fdd52ebdadb0e4902d63e6?w=420&h=420&pmaid=67952875
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 ## 👋 Hi, I'm Kossivi Hyacinthe! 👋
 
 ![Kossivi Hyacinthe][image_0]
