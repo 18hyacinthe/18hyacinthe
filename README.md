@@ -1,11 +1,11 @@
 # 👋 KOSSIVI HYACINTHE AGBEDJINOU
 ## 👨‍💻 À propos de moi
-[cite_start]Développeur logiciel passionné et polyvalent [cite: 9, 99][cite_start], spécialisé dans la conception d'**applications web et mobiles sécurisées et évolutives**[cite: 9, 99].
-[cite_start]Actuellement en dernière année de **Bachelor d'Ingénierie à l'École Centrale Casablanca** (Informatique et Systèmes)[cite: 10, 14, 100, 105].
+Développeur logiciel passionné et polyvalent, spécialisé dans la conception d'**applications web et mobiles sécurisées et évolutives**.
+Actuellement en dernière année de **Bachelor d'Ingénierie à l'École Centrale Casablanca** (Informatique et Systèmes).
 
-[cite_start]Je combine une solide expertise **Full-Stack** (React, Angular, Spring Boot, Laravel) [cite: 11, 101] [cite_start]et **Mobile** (Flutter, React Native) [cite: 11, 25, 77, 101] [cite_start]avec des compétences en **DevOps** [cite: 11, 101][cite_start], Cybersécurité [cite: 33, 37, 73, 74] [cite_start]et en **solutions basées sur l'IA**[cite: 11, 27, 102].
+Je combine une solide expertise **Full-Stack** (React, Angular, Spring Boot, Laravel) et **Mobile** (Flutter, React Native) avec des compétences en **DevOps**, Cybersécurité et en **solutions basées sur l'IA**.
 
-[cite_start]Certifié **Meta Front-End & Back-End Developer** [cite: 35, 36, 127, 152] [cite_start]et **Google Agile Project Management** [cite: 38, 156][cite_start], j'ai un esprit analytique et un leadership affirmé, toujours prêt à innover dans la transformation digitale[cite: 11, 102].
+Certifié **Meta Front-End & Back-End Developer** et **Google Agile Project Management**, j'ai un esprit analytique et un leadership affirmé, toujours prêt à innover dans la transformation digitale.
 
 ---
 
@@ -16,8 +16,8 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,laravel,django,spring,flutter" />
 </p>
 
-- [cite_start]**Langages :** Python, JavaScript, PHP, Java, Dart [cite: 23, 115]
-- [cite_start]**Web/Mobile :** React, Next.js, Angular, Laravel, Django, Spring Boot, Flutter, React Native [cite: 24, 25, 77, 116, 117]
+- **Langages :** Python, JavaScript, PHP, Java, Dart
+- **Web/Mobile :** React, Next.js, Angular, Laravel, Django, Spring Boot, Flutter, React Native
 
 ### ☁️ DevOps, Cloud & Bases de Données
 <p align="left">
@@ -25,8 +25,8 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
 </p>
 
-- [cite_start]**Cloud/DevOps :** Docker, CI/CD, AWS, Azure, GitHub Actions [cite: 31, 123]
-- [cite_start]**Bases de données :** PostgreSQL, MySQL, MongoDB, Firebase [cite: 29, 121]
+- **Cloud/DevOps :** Docker, CI/CD, AWS, Azure, GitHub Actions
+- **Bases de données :** PostgreSQL, MySQL, MongoDB, Firebase
 
 ### 🤖 IA & Autres Outils
 <p align="left">
@@ -34,17 +34,17 @@
   <img src="https://skillicons.dev/icons?i=git,figma" />
 </p>
 
-- [cite_start]**IA/ML :** TensorFlow, PyTorch, Scikit-learn [cite: 27, 118]
-- [cite_start]**Autres :** Git, Figma, API REST, Cybersécurité, Web3 [cite: 33, 125]
+- **IA/ML :** TensorFlow, PyTorch, Scikit-learn
+- **Autres :** Git, Figma, API REST, Cybersécurité, Web3
 
 ---
 
 ## 📂 Ce sur quoi je travaille
-- [cite_start]🔹 Conception de **plateformes SaaS modulaires** pour les universités (projet SmartCampus)[cite: 78, 174].
-- [cite_start]🔹 Développement d'**applications mobiles cross-platform** pour la logistique (BagX) [cite: 77, 158] [cite_start]et le e-commerce B2B (TengaMarket)[cite: 80, 176].
-- [cite_start]🔹 Intégration de **plateformes de recrutement basées sur l'IA** (chez Recruit.AI) [cite: 60, 135] [cite_start]avec React/Next.js et Spring Boot[cite: 60, 135].
-- [cite_start]🔹 Construction de **CRM SaaS** et optimisation des temps de réponse des API (chez Acmedias)[cite: 66, 67, 141, 142].
-- [cite_start]🔹 **Gestion web, SEO, et renforcement de la sécurité** (RGPD, failles) sur des plateformes Laravel (chez SinamFor)[cite: 56, 57, 58, 131, 132, 133].
+- 🔹 Conception de **plateformes SaaS modulaires** pour les universités (projet SmartCampus).
+- 🔹 Développement d'**applications mobiles cross-platform** pour la logistique (BagX) et le e-commerce B2B (TengaMarket).
+- 🔹 Intégration de **plateformes de recrutement basées sur l'IA** (chez Recruit.AI) avec React/Next.js et Spring Boot.
+- 🔹 Construction de **CRM SaaS** et optimisation des temps de réponse des API (chez Acmedias).
+- 🔹 **Gestion web, SEO, et renforcement de la sécurité** (RGPD, failles) sur des plateformes Laravel (chez SinamFor).
 
 ---
 
@@ -53,30 +53,30 @@
 
 ### 🔹 [BagX: Gestion de Livraison Intelligente]
 📦 Application mobile pour la gestion de livraison avec suivi temps réel, notifications push et interface moderne.
-- [cite_start]**Stack:** React Native, PostgreSQL, Cloudinary, FCM[cite: 77, 158].
+- **Stack:** React Native, PostgreSQL, Cloudinary, FCM.
 
 ### 🔹 [TengaMarket App: Marketplace B2B]
 🍽️ Marketplace B2B pour restaurants, incluant gestion des paiements (Mobile Money) et notifications.
-- [cite_start]**Stack:** Flutter, Laravel, PostgreSQL, Cloudinary, FCM[cite: 80, 176].
+- **Stack:** Flutter, Laravel, PostgreSQL, Cloudinary, FCM.
 
 ### 🔹 [SmartCampus Platform]
 🎓 Plateforme SaaS modulaire conçue pour la gestion universitaire.
-- [cite_start]**Stack:** Next.js, Express, PostgreSQL[cite: 78, 174].
+- **Stack:** Next.js, Express, PostgreSQL.
 
 ### 🔹 [Projet ePayslip: Fiches de Paie Sécurisées]
 🔒 Solution de digitalisation sécurisée des fiches de paie, avec un focus sur le chiffrement des documents.
-- [cite_start]**Stack:** Laravel, Chiffrement PrivateDocs[cite: 79, 175].
+- **Stack:** Laravel, Chiffrement PrivateDocs.
 
 ---
 
 ## 🏆 Certifications
-- [cite_start]🥇 **Meta** Front-End Developer [cite: 35, 127]
-- [cite_start]🥇 **Meta** Back-End Developer [cite: 36, 152]
-- [cite_start]🥇 **Google** Cybersecurity Professional [cite: 37, 153]
-- [cite_start]🥇 **Google** Agile Project Management [cite: 38, 156]
-- [cite_start]🥇 **Google** Data Analytics [cite: 39, 157]
-- [cite_start]🥇 Deep Learning avec TensorFlow [cite: 41, 162]
-- [cite_start]🥇 Python Pro Bootcamp (Udemy) [cite: 40, 160]
+- 🥇 **Meta** Front-End Developer
+- 🥇 **Meta** Back-End Developer
+- 🥇 **Google** Cybersecurity Professional
+- 🥇 **Google** Agile Project Management
+- 🥇 **Google** Data Analytics
+- 🥇 Deep Learning avec TensorFlow
+- 🥇 Python Pro Bootcamp (Udemy)
 
 ---
 
