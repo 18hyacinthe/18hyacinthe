@@ -1,0 +1,42 @@
+name: 🔄 Profil vivant (heatmap + serpent)
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  heatmap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generer le heatmap (donnees publiques, sans token)
+        run: python scripts/gen_heatmap.py "${{ github.repository_owner }}" contrib-heatmap.svg
+      - name: Committer si le fichier a change
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add contrib-heatmap.svg
+          git diff --quiet --staged || (git commit -m "chore: heatmap a jour [skip ci]" && git push)
+
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generer le serpent
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark&color_snake=#39d353&color_dots=#151b23,#0e4429,#006d32,#26a641,#39d353
+      - name: Publier sur la branche output
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
